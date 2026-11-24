@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: /sendemail.php
+
+Sitemap: https://cherevashko.com/sitemap.xml
+User-agent: Googlebot-Image
+Disallow: /sendemail.php
+
+User-agent: GoogleOther
+Disallow: /sendemail.php
+
+User-agent: YandexBot
+Disallow: /.js
+Disallow: /sendemail.php
+
+User-agent: Bingbot
+Disallow: /sendemail.php
+Disallow: /.js
+
+User-agent: DuckDuckBot
+Disallow: /sendemail.php
+Disallow: /.js

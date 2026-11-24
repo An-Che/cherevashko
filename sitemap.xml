@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cherevashko.com/</loc>
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="uk"
+                 href="https://cherevashko.com/ua.html"
+                 />
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://cherevashko.com/en.html"
+                 />
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="ru"
+                 href="https://cherevashko.com/"
+                 />
+  </url>
+  
+  <url>
+    <loc>https://cherevashko.com/ua.html</loc>
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="uk"
+                 href="https://cherevashko.com/ua.html"
+                 />
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://cherevashko.com/en.html"
+                 />
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="ru"
+                 href="https://cherevashko.com/"
+                 />
+  </url>
+  
+  <url>
+    <loc>https://cherevashko.com/en.html</loc>
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="uk"
+                 href="https://cherevashko.com/ua.html"
+                 />
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://cherevashko.com/en.html"
+                 />
+    <xhtml:link 
+                 rel="alternate"
+                 hreflang="ru"
+                 href="https://cherevashko.com/"
+                 />
+  </url>
+  
+</urlset>
